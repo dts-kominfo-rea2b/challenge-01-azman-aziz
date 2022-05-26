@@ -21,7 +21,7 @@ const firstUser = {
         city: 'jakarta',
         graduate: 2016
     }],
-    favoriteRestaurant: ['Bento','Sushi','Pancake','Eggy','Padang','Tteok','Sushi','Sushi']	
+    favoriteRestaurant: ['Bento','Sushi','Pancake','Eggy','Padang','Tteok']	
 };
 const secondUser = {
     name: 'Wendy',
@@ -47,7 +47,7 @@ const secondUser = {
         city: 'Tanggerang',
         graduate: 0
     }],
-    favoriteRestaurant: ['Bento','Tempura','Pancake','Sushi','Pancage','Padang','Katsu','Geprek','Pancake','eggy']	
+    favoriteRestaurant: ['Bento','Tempura','Pancake','Sushi','Padang','Katsu','Geprek','eggy']	
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
