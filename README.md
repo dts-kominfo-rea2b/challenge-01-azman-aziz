@@ -20,3 +20,5 @@ Catatan:
 - Nama atribut disesuaikan dengan judul pada kolom tabel (camelCase)
 - Warna kesukaan tidak boleh duplikat
 - Restoran tidak boleh duplikat
+
+https://github.com/dts-kominfo-rea2b/challenge-01-azman-aziz
